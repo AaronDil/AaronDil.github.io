@@ -1,0 +1,80 @@
+body {
+  width: 50%;
+  height: 100%;
+  margin: 100px;
+  background-color: C0C0C0;
+  font-family:  sans-serif;
+}
+table
+{
+   position: relative;
+  left: 280px;
+  top: 60px;
+  width: 70%;
+  font-size:13px;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+caption{
+  text-align: center;
+  font-size: 30px;
+  font-family: OPEN SANS;
+}
+
+.design {
+  width: 150%;
+  height: 1000px;
+  border-radius: 20px;
+  background-color: #94b447;
+  position: relative;
+  z-index: -1;
+  color: black;
+}
+
+.AY {
+  color: #E8E8E8;
+  font-size: 30px;
+  float: right;
+  position: relative;
+  right: 75px;
+  top: 20px;
+  font-weight: bold;
+
+}
+
+
+
+.left {
+  width: 250px;
+  height: 1000px;
+  border-radius: 20px 0px 0px 20px;
+  background-color:#336600;
+  position: sticky;
+  z-index: -1;
+  bottom: 500px;
+  color: white;
+}
+
+.school {
+  width: 90%;
+  font-size: 30px;
+  text-align: center;
+
+
+}
+
+.program {
+  font-size: 100%;
+  margin-top: 30%;
+  text-align: center;
+  
+}
+
+.semester {
+  font-size: 18px;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+
