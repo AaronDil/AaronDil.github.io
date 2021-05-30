@@ -3,7 +3,8 @@ body {
   height: 100%;
   margin: 100px;
   background-color: C0C0C0;
-  font-family:  sans-serif;
+  font-family: Times New Roman;
+  
 }
 table
 {
@@ -13,13 +14,14 @@ table
   width: 70%;
   font-size:13px;
   text-align: center;
-  font-family: century gothic;
+  font-family:Copperplate;
 
 }
 caption{
   text-align: center;
   font-size: 30px;
-  font-family: OPEN SANS;
+  font-family:Cambria;
+
 }
 
 .design {
@@ -33,13 +35,14 @@ caption{
 }
 
 .AY {
-  color: #E8E8E8;
-  font-size: 30px;
-  float: right;
-  position: relative;
-  right: 75px;
-  top: 20px;
-  font-weight: bold;
+font-family: Cambria;
+ font-size: 30px;
+ font-weight: bold;
+ float: right;
+ position: relative;
+ right: 75px;
+ top: 20px;
+ color: #E8E8E8;
 
 }
 
